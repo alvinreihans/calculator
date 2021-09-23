@@ -1,3 +1,3 @@
 # Hi!
 This is my first HTML, CSS, and JavaScript project.
-Thanks for checking
+This project is created based on one of dicoding.com's course.
